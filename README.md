@@ -12,11 +12,11 @@ Este proyecto fue desarrollado como parte del programa **Oracle Next Education (
 4. Se selecciona aleatoriamente un nombre y se muestra el resultado en la página.
 
 ## 🎥 Demostración
-Ahora veremos como funciona la plataforma! [Ver video de demostración](https:) 
+Ahora veremos como funciona la plataforma a través de un video! [Ver video de demostración](https://youtu.be/vsl7c93x99c) 
 
 ## 🌐 Acceso al proyecto
-- 🔗 Accede al repositorio en GitHub haciendo [click aquí](https://github.com/Jenn-Mohito/challenge-amigo-secreto).
-- 🔗 Prueba la plataforma y empieza a usarlo haciendo [click aquí](https://jenn-mohito.github.io/challenge-amigo-secreto/)
+- 🔗 Tambien puedes acceder al repositorio en GitHub haciendo [click aquí](https://github.com/Jenn-Mohito/challenge-amigo-secreto).
+- 🔗 Ahora prueba la plataforma y empieza a usarlo haciendo [click aquí](https://jenn-mohito.github.io/challenge-amigo-secreto/)
 
 ## 🤝 Todos son bienvenidos
 Este proyecto es de uso libre y abierto.  
